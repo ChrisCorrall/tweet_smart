@@ -1,5 +1,5 @@
 # tweet_smart
-A tool for finding twitter influencers
+A tool for finding twitter influencers.
 Please note this is very much in it's early stages! 
 
 A basic tool that searches recent popular tweets for particular phrases, and then collects the usernames of those tweet's authors. 
