@@ -7,5 +7,4 @@ and stores the authors of those tweets in a twitter list.
 
 The assumption being that people with popular tweets containing certain phrases are likely to be influencers within that sphere. 
 
-Next steps: 
-1) A way to filter out 'companies' - i.e looking for influencers, not brands. 
+
